@@ -2,3 +2,4 @@
 tmpfile=$(mktemp /tmp/holberton-script.XXXXXX)
 : ...
 rm "$tmpfile"
+
