@@ -1,4 +1,4 @@
 #!/bin/bash
-cd /home/user/
+cd /2-bring_me_home/ home/
 pwd
 
