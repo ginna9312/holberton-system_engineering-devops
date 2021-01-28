@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -sv bash /bin/sh
+ln -s bash /bin/sh
