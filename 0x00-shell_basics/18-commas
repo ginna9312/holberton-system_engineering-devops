@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mFa | sort -V | xargs -0
+ls -amp
