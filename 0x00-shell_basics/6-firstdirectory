@@ -1,3 +1,4 @@
 #!/bin/bash
-mktemp tmp.holberton
-
+tmpfile=$(mktemp /tmp/holberton-script.XXXXXX)
+: ...
+rm "$tmpfile"
