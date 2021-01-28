@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lA /usr 
+ls -lA /usr ./ ../ boot 
