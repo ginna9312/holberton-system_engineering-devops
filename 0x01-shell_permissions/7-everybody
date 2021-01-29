@@ -1,2 +1,2 @@
 #!/bin/bash
-a+rwx hello
+a+--x hello
