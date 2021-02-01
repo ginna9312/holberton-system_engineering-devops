@@ -1,2 +1,2 @@
 #!/bin/bash
-letter-sort /etc/ssh/sshd_config
+sort | tr -d '\n' /etc/ssh/sshd_config
