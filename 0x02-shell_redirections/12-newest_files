@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -R | head
+find -type f -exec ls -lt \{\} \+ | head
