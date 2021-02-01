@@ -1,2 +1,2 @@
 #!/bin/bash
-find . - mindep 1 -type d | wc -1
+find . -mindep 1 -type d | wc -1
