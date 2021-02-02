@@ -1,2 +1,2 @@
 #!/bin/bash
-expr $BINARY / 10)
+echo $(($BINARY#10))
