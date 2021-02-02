@@ -1,2 +1,2 @@
 #!/bin/bash
-puts VARBETTY="Holberton"
+varBETTY="Holberton" local
