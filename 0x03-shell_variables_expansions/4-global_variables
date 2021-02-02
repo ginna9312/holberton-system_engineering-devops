@@ -1,2 +1,2 @@
-#!/bin/bash
-printenv HOME
+B#!/bin/bash
+printenv
