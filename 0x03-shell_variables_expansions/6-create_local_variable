@@ -1,2 +1,2 @@
 #!/bin/bash
-set VARBETTY="Holberton"
+puts VARBETTY="Holberton"
