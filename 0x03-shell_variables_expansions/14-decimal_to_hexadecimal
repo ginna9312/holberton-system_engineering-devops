@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($DECIMALxfee10000))
+printf '%x\n' DECIMAL
