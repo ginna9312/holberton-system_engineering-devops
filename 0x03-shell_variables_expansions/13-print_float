@@ -1,2 +1,2 @@
 #!/bin/bash
-float f = NUM
+printf $NUM "%.2f \ n"
